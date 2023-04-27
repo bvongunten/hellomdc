@@ -1,4 +1,4 @@
-package ch.nostromo.springjpatests.mdc;
+package ch.nostromo.hellomdc.mdc;
 
 import org.slf4j.MDC;
 import org.springframework.core.task.TaskDecorator;

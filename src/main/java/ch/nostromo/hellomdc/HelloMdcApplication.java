@@ -1,8 +1,8 @@
-package ch.nostromo.springjpatests;
+package ch.nostromo.hellomdc;
 
-import ch.nostromo.springjpatests.mdc.MdcTaskDecorator;
-import ch.nostromo.springjpatests.services.AsynchronousService;
-import ch.nostromo.springjpatests.services.SynchronousService;
+import ch.nostromo.hellomdc.mdc.MdcTaskDecorator;
+import ch.nostromo.hellomdc.services.AsynchronousService;
+import ch.nostromo.hellomdc.services.SynchronousService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

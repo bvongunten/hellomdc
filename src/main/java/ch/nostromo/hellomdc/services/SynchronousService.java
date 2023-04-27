@@ -1,4 +1,4 @@
-package ch.nostromo.springjpatests.services;
+package ch.nostromo.hellomdc.services;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
